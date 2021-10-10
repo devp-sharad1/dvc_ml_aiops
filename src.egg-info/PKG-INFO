@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: a small package for dvc ml pipeline demo
+Home-page: https://github.com/devp-sharad1/my_projects
+Author: shar
+Author-email: iamsharad45@gmail.com
+License: UNKNOWN
+Description: # dvc ml aiops
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
